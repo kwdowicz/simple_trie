@@ -1,6 +1,8 @@
 [package]
 name = "simple_trie"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
+description = "A Trie (pronounced "try") or prefix tree is a specialized tree-like data structure used for efficient storage and retrieval of strings. It provides fast operations for prefix-based searches and is particularly useful in applications like autocomplete, spell checking, and IP routing."
+license = "MIT"
 
 [dependencies]
