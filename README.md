@@ -14,13 +14,13 @@ A Trie (pronounced "try") or prefix tree is a specialized tree-like data structu
 
 ```toml
 [dependencies]
-trie = "0.1.0"
+simple_trie = "0.1.0"
 ```
 
 2. main.rs:
 
 ```rust
-use trie::Trie;
+use simple_trie::Trie;
 
 let mut my_trie = Trie::new();
 
