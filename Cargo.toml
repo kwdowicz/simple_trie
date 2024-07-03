@@ -1,6 +1,6 @@
 [package]
-name = "simple_trie"
-version = "0.1.2"
+name = "very_simple_trie"
+version = "0.1.3"
 edition = "2021"
 description = "A Trie or prefix tree is a specialized tree-like data structure used for efficient storage."
 license = "MIT"
